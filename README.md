@@ -1,1 +1,1 @@
-![](co2_phase_plot.pdf)
+![](co2_phase_plot.png)
