@@ -1,2 +1,1 @@
-# publication-ready-scatter-plot
-Creat publication-ready scatter plots with python
+![](co2_phase_plot.pdf)
